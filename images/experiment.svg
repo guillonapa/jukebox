@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Record Shelf</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <style>
-        html,
-        body {
-            margin: 0;
-            height: 100%;
-            background-color: rgb(15, 15, 15);
-        }
-
-        #main {
-            display: flex;
-            width: 100%;
-            height: 100%;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .mainlogo {
-            width: 50%;
-        }
-    </style>
-</head>
-
-<body>
-    <div id="main">
-        <svg class="mainlogo" version="1.1" viewBox="0.0 0.0 383.5748031496063 345.0787401574803" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0.0 0.0 383.5748031496063 345.0787401574803" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
             <clipPath id="p.0">
                 <path d="m0 0l383.5748 0l0 345.07874l-383.5748 0l0 -345.07874z" clip-rule="nonzero"/>
             </clipPath>
@@ -67,7 +35,3 @@
                 <path stroke="#ffffff" stroke-width="24.0" stroke-linejoin="round" stroke-linecap="butt" d="m193.62204 171.68767l0 0c0 -10.9674225 8.890854 -19.858276 19.858276 -19.858276l0 0c5.266739 0 10.317764 2.0922089 14.041916 5.8163605c3.7241516 3.7241364 5.816345 8.775177 5.816345 14.041916l0 0c0 10.967407 -8.890839 19.858261 -19.858261 19.858261l0 0c-10.9674225 0 -19.858276 -8.890854 -19.858276 -19.858261z" fill-rule="evenodd"/>
             </g>
         </svg>
-    </div>
-</body>
-
-</html>
